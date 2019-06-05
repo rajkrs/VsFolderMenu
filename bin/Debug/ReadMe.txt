@@ -1,6 +1,3 @@
-# VsFolderMenu
-Visual Studio Scaffolding Tools on folder menu.
-
 Tools
 External Tools
 Add
@@ -36,4 +33,3 @@ Done
 
 
 Now nevigate to project folder under solution explorer.
-

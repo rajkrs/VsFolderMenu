@@ -1,0 +1,7 @@
+services.AddTransient<IModifierService, ModifierService>();
+
+services.AddTransient<IModifierRepository, ModifierRepository>();
+
+public readonly Lazy<Mock<IModifierService>> ModifierService;
+
+ModifierService = new Lazy<Mock<IModifierService>>();
